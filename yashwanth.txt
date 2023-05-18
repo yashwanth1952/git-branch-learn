@@ -5,5 +5,3 @@ Krishna has editing this file
 Hello How are You?
 
 yash-1 commit-1
-
-yash-2 commit-1
